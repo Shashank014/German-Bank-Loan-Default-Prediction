@@ -22,8 +22,3 @@ This project develops machine learning models to predict loan defaults using his
 - XGBoost / LightGBM
 - Jupyter Notebook
 
-## 📑 License
-This project is licensed under the MIT License.
-
-## 🙌 Acknowledgements
-Data sourced from the German Credit dataset available on UCI Machine Learning Repository.
